@@ -1,0 +1,8 @@
+pandas
+ipywidgets
+matplotlib
+voila
+numpy
+openpyxl
+tk
+
